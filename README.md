@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyratking" alt="kyratking" /></a> </p>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust** and **Go**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kyratking](https://github.com/kyratking)
 
